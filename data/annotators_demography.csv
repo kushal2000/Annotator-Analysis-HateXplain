@@ -1,0 +1,177 @@
+,id,Race,Country,Age,Gender,Religion,Freedom_of_speech,Victim
+0,106,Caucasian,USA,40--49,Female,Christian,No,No
+1,18,Hispanic,Brazil,30--39,Prefer not to disclose,Other,No,Yes
+2,219,Caucasian,UK,30--39,Female,Nonreligious,No,Prefer not to disclose
+3,8,Caucasian,USA,30--39,Male,Christian,Yes,No
+4,173,Caucasian,USA,65++,Male,Christian,Yes,Prefer not to disclose
+5,114,Caucasian,USA,50--65,Female,Christian,No,No
+6,118,Caucasian,{},50--65,Female,Christian,No,No
+7,9,Indian,India,30--39,Male,Hindu,No,Yes
+8,142,Caucasian,{},30--39,Female,Other,No,No
+9,75,African,{},30--39,Female,Other,No,No
+10,58,Caucasian,{},50--65,Male,Other,I don't know,No
+11,132,Caucasian,{},40--49,Female,Other,No,Yes
+12,135,Caucasian,USA,30--39,Female,Other,No,Yes
+13,13,Caucasian,USA,50--65,Female,Christian,I don't know,No
+14,164,Asians,USA,30--39,Male,Buddhism,Yes,Yes
+15,63,Caucasian,USA,50--65,Female,Christian,No,No
+16,166,Caucasian,USA,25--29,Female,Nonreligious,I don't know,Yes
+17,82,Caucasian,USA,40--49,Female,Christian,I don't know,No
+18,183,Asians,USA,30--39,Female,Hindu,No,Yes
+19,134,Caucasian,Germany,25--29,Female,Christian,No,Yes
+20,178,African,USA,50--65,Male,Nonreligious,Yes,Yes
+21,120,Caucasian,USA,40--49,Female,Christian,No,No
+22,16,Caucasian,USA,30--39,Male,Christian,Yes,No
+23,62,Caucasian,USA,30--39,Female,Christian,No,No
+24,125,Caucasian,USA,30--39,Male,Nonreligious,No,No
+25,48,African,USA,18--24,Female,Nonreligious,No,Yes
+26,187,Caucasian,USA,40--49,Female,Nonreligious,I don't know,No
+27,130,Arabs,USA,30--39,Female,Christian,No,Yes
+28,65,Caucasian,USA,30--39,Male,Christian,No,No
+29,89,Caucasian,USA,30--39,Female,Christian,No,No
+30,148,Caucasian,USA,40--49,Female,Christian,No,No
+31,167,Caucasian,USA,50--65,Female,Christian,No,No
+32,113,Caucasian,USA,40--49,Female,Nonreligious,No,No
+33,109,Caucasian,USA,50--65,Male,Nonreligious,No,No
+34,50,Caucasian,USA,30--39,Male,Nonreligious,No,Yes
+35,143,Caucasian,USA,18--24,Female,Nonreligious,I don't know,Yes
+36,102,Caucasian,USA,30--39,Female,Nonreligious,I don't know,Yes
+37,55,Caucasian,USA,18--24,Female,Nonreligious,No,No
+38,93,Other,Brazil,40--49,Female,Nonreligious,No,No
+39,73,Hispanic,USA,50--65,Female,Nonreligious,I don't know,Yes
+40,146,Caucasian,USA,40--49,Male,Other,No,No
+41,70,Caucasian,USA,30--39,Female,Nonreligious,Yes,Yes
+42,121,Caucasian,USA,40--49,Female,Christian,No,Yes
+43,72,Hispanic,Spain,30--39,Female,Nonreligious,No,No
+44,28,Caucasian,USA,30--39,Female,Nonreligious,No,Yes
+45,34,Caucasian,USA,40--49,Male,Nonreligious,No,No
+46,101,Caucasian,USA,50--65,Male,Christian,Yes,Yes
+47,52,Hispanic,USA,30--39,Male,Other,Yes,No
+48,140,Caucasian,USA,50--65,Female,Christian,No,No
+49,194,Asians,USA,25--29,Male,Christian,No,Yes
+50,168,Caucasian,Israel,30--39,Female,Nonreligious,I don't know,No
+51,85,Caucasian,Canada,30--39,Female,Nonreligious,No,Yes
+52,92,Caucasian,USA,30--39,Female,Nonreligious,No,No
+53,179,Caucasian,United Kingdom,25--29,Female,Christian,Yes,Yes
+54,98,Caucasian,USA,30--39,Male,Christian,No,No
+55,14,Caucasian,Mexico,50--65,Female,Christian,No,No
+56,136,Caucasian,Brazil,30--39,Female,Nonreligious,No,Yes
+57,74,Other,USA,40--49,Female,Other,No,Yes
+58,169,Hispanic,Canada,40--49,Female,Islam,Yes,No
+59,66,Caucasian,USA,30--39,Male,Nonreligious,I don't know,No
+60,137,Caucasian,USA,50--65,Female,Christian,No,No
+61,149,Caucasian,USA,40--49,Male,Christian,No,No
+62,95,Caucasian,USA,50--65,Female,Christian,I don't know,Yes
+63,76,Hispanic,USA,40--49,Female,Christian,Yes,Yes
+64,180,Caucasian,Germany,50--65,Female,Nonreligious,No,Yes
+65,111,Caucasian,USA,30--39,Male,Nonreligious,No,Yes
+66,7,Caucasian,USA,25--29,Male,Nonreligious,Yes,No
+67,23,Caucasian,USA,18--24,Male,Nonreligious,Yes,No
+68,104,Caucasian,USA,30--39,Female,Nonreligious,No,No
+69,94,African,Botswana,30--39,Female,Christian,I don't know,No
+70,123,Caucasian,Canada,18--24,Female,Nonreligious,Yes,Yes
+71,162,Caucasian,USA,50--65,Female,Nonreligious,Yes,Yes
+72,68,Caucasian,Canada,30--39,Male,Nonreligious,Yes,Yes
+73,107,Caucasian,USA,18--24,Female,Christian,No,No
+74,188,Caucasian,USA,30--39,Female,Nonreligious,I don't know,No
+75,198,Caucasian,USA,25--29,Female,Nonreligious,Yes,Yes
+76,139,Caucasian,USA,40--49,Male,Other,Yes,Yes
+77,189,Caucasian,France,25--29,Female,Nonreligious,No,No
+78,124,Caucasian,USA,25--29,Male,Nonreligious,No,Yes
+79,44,Caucasian,USA,30--39,Female,Nonreligious,No,Yes
+80,100,Caucasian,Canada,30--39,Female,Nonreligious,No,No
+81,80,Caucasian,USA,40--49,Male,Christian,I don't know,No
+82,37,Other,USA,40--49,Male,Nonreligious,Yes,Yes
+83,38,Caucasian,USA,40--49,Female,Christian,No,No
+84,84,Caucasian,USA,18--24,Female,Christian,No,No
+85,133,Other,USA,18--24,Female,Nonreligious,No,Yes
+86,116,Caucasian,USA,25--29,Female,Christian,No,No
+87,35,Caucasian,USA,30--39,Male,Nonreligious,No,Yes
+88,108,Caucasian,USA,40--49,Male,Christian,No,No
+89,10,Caucasian,Turkey,25--29,Male,Nonreligious,No,Yes
+90,1,Caucasian,USA,40--49,Female,Nonreligious,No,No
+91,96,African,USA,18--24,Female,Christian,No,Yes
+92,192,Caucasian,USA,50--65,Female,Christian,No,Yes
+93,2,Arabs,Germany,18--24,Female,Islam,No,Yes
+94,32,Caucasian,USA,40--49,Female,Christian,No,No
+95,5,Caucasian,Spain,30--39,Male,Nonreligious,No,No
+96,156,Caucasian,USA,30--39,Female,Nonreligious,No,No
+97,197,Caucasian,USA,30--39,Female,Christian,I don't know,No
+98,59,Asians,USA,30--39,Male,Nonreligious,Yes,Yes
+99,83,Hispanic,USA,30--39,Female,Christian,I don't know,Yes
+100,36,Caucasian,USA,30--39,Female,Nonreligious,No,No
+101,171,Caucasian,USA,30--39,Female,Nonreligious,No,No
+102,128,Asians,USA,30--39,Male,Nonreligious,No,No
+103,127,Caucasian,USA,50--65,Female,Other,I don't know,Yes
+104,154,Asians,USA,30--39,Female,Nonreligious,No,No
+105,71,Other,USA,18--24,Female,Christian,No,No
+106,3,Caucasian,USA,30--39,Female,Nonreligious,No,No
+107,45,Caucasian,USA,30--39,Female,Nonreligious,I don't know,Prefer not to disclose
+108,144,Asians,USA,30--39,Male,Christian,I don't know,Yes
+109,79,Asians,Vietnam,30--39,Female,Nonreligious,No,No
+110,147,Caucasian,USA,18--24,Male,Christian,No,No
+111,49,Caucasian,USA,40--49,Female,Nonreligious,No,No
+112,97,Other,USA,50--65,Female,Jews,Yes,Yes
+113,110,Caucasian,USA,30--39,Male,Christian,No,Prefer not to disclose
+114,21,African,USA,50--65,Male,Other,No,No
+115,77,Caucasian,USA,40--49,Female,Jews,Yes,Yes
+116,153,Caucasian,USA,30--39,Male,Nonreligious,No,Yes
+117,177,Caucasian,USA,30--39,Female,Nonreligious,No,No
+118,170,Caucasian,USA,40--49,Female,Christian,I don't know,No
+119,176,Caucasian,United Arab Emirates,30--39,Female,Christian,Yes,Yes
+120,209,Indian,India,18--24,Male,Hindu,Yes,No
+121,240,Caucasian,Italy,18--24,Female,Nonreligious,No,Yes
+122,199,Caucasian,USA,30--39,Female,Nonreligious,No,Yes
+123,239,Caucasian,Italy,18--24,Female,Nonreligious,Yes,No
+124,227,Caucasian,USA,65++,Male,Nonreligious,I don't know,No
+125,253,African,USA,30--39,Male,Christian,Yes,Prefer not to disclose
+126,208,Caucasian,Italy,18--24,Male,Nonreligious,No,No
+127,241,Caucasian,USA,50--65,Male,Nonreligious,Yes,Yes
+128,202,Hispanic,Italy,18--24,Male,Nonreligious,I don't know,No
+129,217,Caucasian,USA,40--49,Male,Nonreligious,I don't know,No
+130,222,Caucasian,Canada,30--39,Female,Nonreligious,No,Prefer not to disclose
+131,210,Hispanic,Brazil,40--49,Female,Nonreligious,I don't know,No
+132,200,Caucasian,Canada,30--39,Male,Christian,No,No
+133,228,African,USA,18--24,Male,Christian,No,No
+134,236,Caucasian,USA,40--49,Male,Christian,Yes,Yes
+135,182,Caucasian,USA,40--49,Female,Nonreligious,No,Yes
+136,213,Caucasian,USA,30--39,Female,Nonreligious,No,No
+137,218,Caucasian,Germany,30--39,Male,Nonreligious,No,Yes
+138,245,Caucasian,USA,65++,Male,Christian,No,No
+139,203,Caucasian,USA,25--29,Male,Nonreligious,Yes,No
+140,249,Asians,Canada,18--24,Female,Nonreligious,I don't know,No
+141,248,Caucasian,USA,40--49,Male,Nonreligious,Yes,Yes
+142,220,Caucasian,USA,30--39,Female,Nonreligious,No,No
+143,201,Caucasian,France,40--49,Male,Christian,I don't know,Yes
+144,230,Caucasian,USA,40--49,Female,Nonreligious,No,Yes
+145,25,Caucasian,Brazil,30--39,Female,Nonreligious,No,No
+146,252,African,USA,30--39,Female,Nonreligious,No,Yes
+147,235,Caucasian,USA,18--24,Female,Nonreligious,I don't know,Yes
+148,243,Caucasian,USA,30--39,Male,Nonreligious,No,No
+149,238,Caucasian,USA,50--65,Male,Christian,I don't know,No
+150,214,Caucasian,USA,40--49,Male,Nonreligious,I don't know,No
+151,212,Caucasian,USA,30--39,Female,Nonreligious,I don't know,No
+152,229,Caucasian,USA,30--39,Male,Christian,I don't know,No
+153,215,Caucasian,USA,50--65,Male,Nonreligious,I don't know,Yes
+154,211,Caucasian,USA,30--39,Female,Christian,Yes,Yes
+155,206,Hispanic,USA,50--65,Male,Nonreligious,No,Yes
+156,233,Caucasian,USA,30--39,Male,Nonreligious,No,No
+157,216,Caucasian,USA,30--39,Male,Christian,No,Yes
+158,223,Other,Spain,25--29,Male,Nonreligious,No,Yes
+159,226,Caucasian,USA,40--49,Male,Christian,No,No
+160,251,Caucasian,USA,50--65,Female,Christian,No,No
+161,225,Caucasian,USA,30--39,Male,Nonreligious,I don't know,Yes
+162,237,Caucasian,USA,25--29,Female,Nonreligious,No,No
+163,242,Caucasian,USA,65++,Female,Nonreligious,No,No
+164,247,Caucasian,USA,18--24,Female,Christian,Yes,No
+165,207,Caucasian,USA,30--39,Male,Christian,No,Prefer not to disclose
+166,221,Caucasian,USA,30--39,Male,Christian,No,No
+167,244,Caucasian,USA,40--49,Female,Christian,No,No
+168,232,Other,USA,18--24,Female,Nonreligious,No,No
+169,234,Caucasian,USA,25--29,Female,Nonreligious,Yes,No
+170,224,Caucasian,USA,30--39,Male,Nonreligious,No,No
+171,250,Caucasian,Germany,30--39,Male,Other,No,Yes
+172,231,Caucasian,USA,40--49,Female,Christian,I don't know,No
+173,204,Hispanic,USA,18--24,Female,Other,No,No
+174,246,Caucasian,USA,50--65,Male,Nonreligious,I don't know,Yes
+175,205,African,USA,25--29,Male,Nonreligious,I don't know,No
